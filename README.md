@@ -4,8 +4,8 @@
 <p align="center">Desafio do GoStack 13 sobre os conceitos do NodeJS</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/npm-1.0.2-green"/>
-  <img src="https://img.shields.io/badge/repo%20size-2.00%20MB-informational" />
+  <img src="https://img.shields.io/badge/node-12.13.1-green"/>
+  <!--<img src="https://img.shields.io/badge/repo%20size-2.00%20MB-informational" />-->
   <img src="https://img.shields.io/badge/score-10.00-important" />
   <img src="https://img.shields.io/badge/last%20commit-august-blue" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
