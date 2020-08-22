@@ -23,7 +23,7 @@
 🚧  Finalizado  🚧
 </h3>
 
-### Features
+### 📎 Features
 
 - [x] Listar Repositórios
 - [x] Cadastro de Repositórios
@@ -31,7 +31,7 @@
 - [x] Deleção de um Repositório
 - [x] Dar like em um Repositório
 
-### Pré-requisitos
+### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/) 
